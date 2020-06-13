@@ -1,0 +1,5 @@
+{
+  "html": "<h1>缓存内容</h1>",
+  "css": "body{color:blue}",
+  "javascript": "console.log('缓存JS')"
+}
